@@ -818,7 +818,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Scanverter/Preview Content\"";
-				DEVELOPMENT_TEAM = 7AZAJXKK6R;
+				DEVELOPMENT_TEAM = JHVEP869C5;
 				ENABLE_PREVIEWS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
 				INFOPLIST_FILE = Scanverter/SupportingFiles/Info.plist;
@@ -843,7 +843,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Scanverter/Preview Content\"";
-				DEVELOPMENT_TEAM = 7AZAJXKK6R;
+				DEVELOPMENT_TEAM = JHVEP869C5;
 				ENABLE_PREVIEWS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = "";
 				INFOPLIST_FILE = Scanverter/SupportingFiles/Info.plist;
