@@ -894,7 +894,7 @@
 		};
 		1926672C25EA482700A5ABFE /* XCRemoteSwiftPackageReference "SwiftyTesseract" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/dartsyms/SwiftyTesseract";
+			repositoryURL = "https://github.com/SwiftyTesseract/SwiftyTesseract";
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 4.0.0;
