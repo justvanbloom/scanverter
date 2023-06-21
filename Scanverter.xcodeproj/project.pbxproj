@@ -818,7 +818,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Scanverter/Preview Content\"";
-				DEVELOPMENT_TEAM = 7VAGZXD78P;
+				DEVELOPMENT_TEAM = 7AZAJXKK6R;
 				ENABLE_PREVIEWS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
 				INFOPLIST_FILE = Scanverter/SupportingFiles/Info.plist;
@@ -827,7 +827,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ru.kot.it.Scanverter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.foelz.Scanverter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -843,7 +843,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Scanverter/Preview Content\"";
-				DEVELOPMENT_TEAM = 7VAGZXD78P;
+				DEVELOPMENT_TEAM = 7AZAJXKK6R;
 				ENABLE_PREVIEWS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = "";
 				INFOPLIST_FILE = Scanverter/SupportingFiles/Info.plist;
@@ -852,7 +852,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ru.kot.it.Scanverter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.foelz.Scanverter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
